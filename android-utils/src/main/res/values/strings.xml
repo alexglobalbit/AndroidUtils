@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Utils</string>
+    <string name="send_email_using">Send email using</string>
+</resources>
